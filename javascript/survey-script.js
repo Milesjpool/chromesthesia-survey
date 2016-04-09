@@ -1,6 +1,6 @@
 ﻿$(document).ready(function () {
 
-    var assetRoot = "https://googledrive.com/host/0B1_eH69z5SBWZWw4ejJ3UWRtUE0/survey/";
+    var assetRoot = "http://assets.milesjpool.com/survey/";
     var numOfTracks = tracks.length;
     var trackId = Math.floor(Math.random() * numOfTracks);
     var paused = true;
